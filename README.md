@@ -16,7 +16,7 @@
 - Git & GitHub
 
 ## 📚 Projects
-- Netflix Clone
+- watchzone
 - Employee Management System
 - Personal Website
 
