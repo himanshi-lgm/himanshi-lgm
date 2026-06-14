@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshi Chouhan</h1>
 
-<h3 align="center">💻 B.Tech CSE Student | Full Stack Developer | Node.js Enthusiast</h3>
+<h3 align="center">💻 Information Technology Student | Frontend Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Learning+Node.js+%26+Express.js;Building+Real+World+Projects;Always+Learning+New+Technologies" />
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student
+🎓 Information Technology Student
 
 🌱 Currently Learning **Node.js, Express.js, MongoDB**
 
@@ -37,9 +37,6 @@ A modern movie streaming interface inspired by Netflix.
 
 ### 🌐 Personal Portfolio Website
 Responsive website showcasing my skills and projects.
-
-### 👨‍💼 Employee Management System
-Database-based employee record management system.
 
 ---
 
